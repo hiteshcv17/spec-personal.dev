@@ -34,22 +34,6 @@ The technologies used in this project should be updated to match the actual impl
 
 ## 📂 Project Structure
 
-The following is an example structure. Update it to reflect your actual repository files.
-
-```text
-portfolio-website/
-├── frontend/
-│   ├── index.html
-│   ├── css/
-│   ├── js/
-│   └── assets/
-├── backend/
-│   ├── server.js
-│   ├── routes/
-│   └── controllers/
-├── README.md
-└── .gitignore
-```
 
 > Note: The structure above is illustrative. Your actual folders and filenames may differ.
 
